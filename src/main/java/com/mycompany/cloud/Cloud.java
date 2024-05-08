@@ -14,7 +14,7 @@ public class Cloud {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("el chakalitobot es un inbesil");
+       System.out.println("Hello Kitty = Hola Diablo");
         //Sisiertooo
     }
     
