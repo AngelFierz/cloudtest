@@ -9,5 +9,7 @@ package com.mycompany.cloud;
  * @author alumnog
  */
 public class ClassPedro {
-    
+    public static void main(String[] args) {
+        System.out.println("Yo soy tu padre");
+    }
 }
