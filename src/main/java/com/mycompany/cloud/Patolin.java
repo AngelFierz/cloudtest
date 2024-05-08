@@ -9,5 +9,10 @@ package com.mycompany.cloud;
  * @author alumnog
  */
 public class Patolin {
+    public static void main(String[] args) {
+        
     
+    
+System.out.println("un pato patolin");
+}
 }
