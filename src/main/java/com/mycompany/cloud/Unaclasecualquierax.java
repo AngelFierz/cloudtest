@@ -11,5 +11,6 @@ package com.mycompany.cloud;
 public class Unaclasecualquierax {
     public static void main(String[] args) {
         System.out.println("hagan sus colabs");
+        System.out.println("uwuwuwu");
     }
 }
