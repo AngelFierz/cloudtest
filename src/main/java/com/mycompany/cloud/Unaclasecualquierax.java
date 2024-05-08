@@ -9,5 +9,7 @@ package com.mycompany.cloud;
  * @author castr
  */
 public class Unaclasecualquierax {
-    
+    public static void main(String[] args) {
+        System.out.println("hagan sus colabs");
+    }
 }
